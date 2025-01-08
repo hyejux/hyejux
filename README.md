@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**hyejux/hyejux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a class="link" href="https://github.com/hyejux/HelloWorld/blob/main/header.svg">
+    <img class="image" height="100%" src="header.svg" alt="Click to see the source">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+   [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyejux)](https://solved.ac/hyejux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejux&layout=compact)](https://github.com/hyejux/github-readme-stats)
+
+
+</div>
+
