@@ -5,15 +5,4 @@
   </a>
 </div>
 
-<div align="center">
-  
-   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyejux)](https://solved.ac/hyejux)
-
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejux&layout=compact)](https://github.com/hyejux/github-readme-stats)
-
-
-</div>
 
